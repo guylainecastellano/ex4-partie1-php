@@ -5,7 +5,7 @@ $name = 'guylaine'; //déclaration variable
 <html lang="fr" dir="ltr">
 <head>
   <meta charset="utf-8"/>
-  <title>ex1 partie1 php</title>
+  <title>ex4 partie1 php</title>
 </head>
 <body>
 <p>bonjour,
@@ -13,6 +13,5 @@ $name = 'guylaine'; //déclaration variable
   echo $name; //initialiser la valeur
   ?>, comment vas tu?
 </p>
-
 </body>
 </html>
